@@ -65,8 +65,10 @@ header{
 
 }
 
-.cuadro1 ul{
+.cuadro1 li{
 	text-decoration: none;
+	color: white;
+
 }
 
 
@@ -89,6 +91,24 @@ header{
 	color: white;
 	text-align: center;
 }
+
+.cuadro3{
+	width: 100%;
+	padding-top: 40px;
+
+}
+
+.col-7{
+	background-color: #151219;
+	padding-top: 40px
+
+}
+
+.titulo1{
+	
+}
+
+
 
 
 
