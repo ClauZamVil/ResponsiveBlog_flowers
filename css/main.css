@@ -1,0 +1,106 @@
+/* Inserta tu codigo aqui */
+
+/* Responsive */
+
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
+
+header{
+	background-color: #151219
+}
+
+.col-6 li{
+	color: white;
+	font-family: helvetica;
+	padding-left: 10px;
+	font-size: 15px;
+	display: inline-table; 
+	font-family: helvetica;
+	text-decoration: none;
+	padding-top: 20px;
+	margin: 10px;
+
+}
+
+
+.fondo_1{
+	background-color: #211D28 ;
+}
+
+.c2{
+	background-color:#211D28 ;
+	padding-top: 30px;
+}
+
+.img_1{
+	max-width: 100%
+
+}
+
+.col-6 img{
+	width: 50%;
+	
+ }
+
+ .flor1{
+ 	background-image: url("../image/image2.jpg");
+ 	background-size: cover;
+    padding:100px 100px;
+
+ }
+
+.cuadro1{
+	background-color: #151219;
+}
+
+.cuadro1 p{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+.cuadro1 ul{
+	text-decoration: none;
+}
+
+
+.c3{
+	padding-top: 20px;
+
+}
+.pie_foto{
+	background-color: #151219;
+}
+
+.pie1{
+	color: #F6AD59;
+	padding-top: 10px;
+	text-align: center;
+}
+
+
+.pie2{
+	color: white;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
