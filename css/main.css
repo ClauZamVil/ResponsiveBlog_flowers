@@ -66,8 +66,10 @@ header{
 }
 
 .cuadro1 li{
-	text-decoration: none;
+	
 	color: white;
+	text-align: center;
+	text-decoration: none;
 
 }
 
@@ -100,16 +102,47 @@ header{
 
 .col-7{
 	background-color: #151219;
-	padding-top: 40px
+	
 
 }
 
 .titulo1{
-	
+	color: #EBB971;
+	text-align: center;
+}
+
+.titulo2{
+	color: white;
+	text-align: center;
+}
+
+.video{
+	width: 100%;
+}
+
+.texto3{
+	color: white;
+	text-align: center;
+}
+.c4{
+	padding-top: 40px;
 }
 
 
+.buscar{
+	background-color: #151219;
 
+}
+
+.buscar div{
+	background-color: #151319;
+
+}
+
+.buscar p{
+	text-align: left;
+	color: white;
+}
 
 
 
